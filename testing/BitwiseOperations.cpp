@@ -1,7 +1,6 @@
-// testing.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// This file contains the 'main' function. Program execution begins and ends there.
 // James A Grady
 // Data Structures II - Extra Credit
-//
 
 #include <iostream>
 
